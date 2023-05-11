@@ -1,4 +1,4 @@
-#How to run Note Taker by downloading it from Github
+How to run Note Taker by downloading it from Github
 Run 
 "_npm install_" 
 by going into the directory
