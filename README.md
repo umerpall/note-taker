@@ -1,3 +1,18 @@
+#How to run Note Taker by downloading it from Github
+Run 
+"_npm install_" 
+by going into the directory
+
+then Run 
+"_npm start_" 
+to run the program
+
+If it causes any issue then run
+"_npm audit fix_"
+then run again
+"npm start"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
